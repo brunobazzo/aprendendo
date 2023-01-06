@@ -1,0 +1,1 @@
+logging.debug('This is a debug message')
